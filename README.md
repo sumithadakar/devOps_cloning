@@ -1,2 +1,1 @@
-# devOps_cloning
-devops
+print("this file has been added in github. cloning it to local")
